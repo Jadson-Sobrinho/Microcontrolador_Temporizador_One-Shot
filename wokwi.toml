@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'build/Temporizador_de_um_disparo.uf2'
+elf = 'build/Temporizador_de_um_disparo.elf'
+gdbServerPort=3333
